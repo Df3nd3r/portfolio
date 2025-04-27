@@ -7,13 +7,14 @@
   - [Vulnerability scan assessments using Nessus and OpenVAS](https://github.com/Df3nd3r/portfolio)
   - [Network implementation and management using Packet Tracer](https://github.com/Df3nd3r/portfolio)
   - [Network traffic analysis using Wireshark](https://github.com/Df3nd3r/portfolio)
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 
-<h2> Certifications: </h2>
-  - CompTIA Security+
+<h3> Certifications: </h3>
 
-<h2> Connect with me: </h2>
-[linkedin]: [https://www.linkedin.com/in/luis-chihuan-616aba181/]
+  - [CompTIA Security+](https://i.imgur.com/Lih5U1D.png)
+
+<h4> Connect with me: </h4>
+
+  - [linkedin]: [https://www.linkedin.com/in/luis-chihuan-616aba181/]
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
