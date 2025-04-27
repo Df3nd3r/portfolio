@@ -14,10 +14,10 @@
 
 <h4> Connect with me: </h4>
 
-  - [linkedin]: [https://www.linkedin.com/in/luis-chihuan-616aba181/]
+  - [linkedin](https://www.linkedin.com/in/luis-chihuan-616aba181/)
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
