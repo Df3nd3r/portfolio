@@ -7,6 +7,7 @@
   - [Vulnerability scan assessments using Nessus and OpenVAS](https://github.com/Df3nd3r/portfolio)
   - [Network implementation and management using Packet Tracer](https://github.com/Df3nd3r/portfolio)
   - [Network traffic analysis using Wireshark](https://github.com/Df3nd3r/portfolio)
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 
 <h2> Certifications: </h2>
   - CompTIA Security+
