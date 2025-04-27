@@ -2,7 +2,7 @@
 
 <h2> Networking and Cybersecurity Projects:</h2>
 
-  - [Setup a basic home-lab running Active Directory (Oracle VirtualBox)](https://github.com/Df3nd3r/portfolio)
+  - [Setup a basic home-lab running Active Directory (Oracle VirtualBox)](https://github.com/Df3nd3r/ActiveDirectoryHomeLab/tree/main)
   - [Passive and dynamic malware analysis in Windows10 (Oracle VirtualBox)](https://github.com/Df3nd3r/portfolio)
   - [Vulnerability scan assessments using Nessus and OpenVAS](https://github.com/Df3nd3r/portfolio)
   - [Network implementation and management using Packet Tracer](https://github.com/Df3nd3r/portfolio)
